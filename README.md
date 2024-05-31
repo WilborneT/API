@@ -1,2 +1,4 @@
  # API testing
-API testing of internet store - https://www.postman.com/altimetry-cosmologist-89541778/workspace/my-workspace/collection/35095974-0664894b-20f8-4eba-962d-4b0815de150c?action=share&creator=35095974&active-environment=35095974-50646084-6a72-4d98-bb01-513b6437d317
+API testing of internet store - https://www.postman.com/altimetry-cosmologist-89541778/workspace/my-workspace/folder/35095974-2419e324-de23-422c-98d3-bcc286704b72)
+
+Run Collection from Postaman - [Demoshopping.postman_collection.json](https://github.com/user-attachments/files/15508259/Demoshopping.postman_collection.json)
